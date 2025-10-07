@@ -125,14 +125,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+**Amogh Bakshi** -  amoghworkofficial@gmail.com
 
-**Project Link:** [https://github.com/your-username/finsight-ai](https://github.com/your-username/finsight-ai)
+**Project Link:** [https://github.com/amoghbakshii/FinsightAi](https://github.com/amoghbakshii/FinsightAI)
 
 ---
 
 <div align="center">
 
-Made with care by [Your Name](https://github.com/your-username)
+Made with Passion by [Amogh Bakshi](https://github.com/amoghbakshii)
 
 </div>
