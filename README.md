@@ -109,24 +109,6 @@ Follow these steps to set up and run the project locally.
    
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
----
-
-## Screenshots
-
-<div align="center">
-
-### Landing Page
-*Beautiful, animated hero section with smooth transitions*
-
-### Dashboard
-*Comprehensive financial overview with real-time metrics*
-
-### Analytics
-*Interactive charts showing spending patterns and trends*
-
-</div>
-
----
 
 ## Contributing
 
@@ -140,11 +122,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
